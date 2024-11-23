@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Zista</string>
+    <string name="language_name">English</string>
+
+    <!-- Splash -->
+    <string name="version">Version %s</string>
+
+    <!-- Splash.LanguageDialog -->
+    <string name="select_language">Select your language</string>
+    <string name="confirm">Confirm</string>
+    <string name="english" translatable="false">English</string>
+    <string name="arabic" translatable="false">العربیة</string>
+    <string name="farsi" translatable="false">فارسی</string>
+
+    <!-- Splash.Connecting -->
+    <string name="connecting_to_server">Connecting to the server</string>
+
+    <!-- Splash.UpdateAvailable -->
+    <string name="update">Update</string>
+    <string name="update_text">The new Zista update is now available. Please update your Zista to the latest version.</string>
+    <string name="update_ok">Download</string>
+    <string name="update_continue">Continue</string>
+    <string name="update_exit">Exit</string>
+    <string name="website" translatable="false">http://www.nasirbp.ir/en</string>
+    <string name="website_privacy_policy" translatable="false">https://nasirbp.ir/en/terms-of-service-and-privacy-policy/</string>
+
+    <!-- OnBoarding -->
+    <string name="on_boarding_item1">In Zista, measure your health indicators with the help of Zistel devices.</string>
+    <string name="on_boarding_item2">In Zista, you can easily view your health status and share it with others.</string>
+    <string name="on_boarding_item3">In Zista, you can share the results of your registrations with your doctor.</string>
+
+    <!-- Authentication.Login -->
+    <string name="login">Login</string>
+    <string name="welcome">Welcome to Zista</string>
+    <string name="privacy_policy">I accept the use of the service and privacy.</string>
+    <string name="privacy_policy_link_keyword">accept</string>
+    <string name="phone_number">Mobile phone number</string>
+
+    <!-- Authentication.SignUp -->
+    <string name="create_account">Create a user account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">Firstname</string>
+    <string name="last_name">Lastname</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="gender">Gender</string>
+    <string name="invalid_data">Invalid Data</string>
+
+    <!-- Authentication.SignUp.GenderDialog -->
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <!-- Authentication.SignUp.NetworkErrorDialog -->
+    <string name="connection_failed">Connection Failed</string>
+    <string name="network_error_guide">Please make sure your mobile internet is turned on</string>
+    <string name="try_again">Try Again</string>
+    <string name="call_support">Call Support</string>
+
+    <!-- Authentication.Verification -->
+    <string name="user_authentication">User Authentication</string>
+    <string name="user_authentication_guide">An authentication code will be sent to your mobile phone number via SMS, please enter it in the box below:</string>
+    <string name="resend">Resend</string>
+
+    <!-- Authentication.RefreshToken -->
+    <string name="refresh_token_guide">Your login has expired. Click on the login button to continue with the same phone number</string>
+    <string name="login_with_another_number">Log in with another phone number</string>
+
+    <!-- Authentication.RefreshToken.ChangeNumberWarningDialog -->
+    <string name="warning">Warning</string>
+    <string name="change_number_warning">Logging in with another phone number will delete the information that is not synchronized with the server. Do you want to continue?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Settings -->
+    <string name="nbp_synced">Updating data completed.</string>
+    <string name="nbp_syncing">Zista is updating data.</string>
+
+    <!-- IoUtil -->
+    <string name="share_log_no_data_error">There is no data to share.</string>
+    <string name="logo">Logo</string>
+
+    <!-- Home -->
+    <string name="home">Home</string>
+    <string name="reset_data">Reset Data</string>
+
+    <!-- Other -->
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string-array name="numbers">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

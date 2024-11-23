@@ -1672,128 +1672,496 @@ const groups = {
         ]
       }
     ],
-    "Sign Up": [
-      {
-        "name": "3.Authentication_2.SignUp-Arabic-Landscape-Desktop.webp",
-        "attributes": [
-          "Arabic",
-          "Landscape",
-          "Desktop"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Arabic-Portrait-Foldable.webp",
-        "attributes": [
-          "Arabic",
-          "Portrait",
-          "Foldable"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Arabic-Portrait-Small.webp",
-        "attributes": [
-          "Arabic",
-          "Portrait",
-          "Small"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Arabic-Portrait-Tablet.webp",
-        "attributes": [
-          "Arabic",
-          "Portrait",
-          "Tablet"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Arabic-Portrait-XSmall.webp",
-        "attributes": [
-          "Arabic",
-          "Portrait",
-          "XSmall"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-English-Landscape-Desktop.webp",
-        "attributes": [
-          "English",
-          "Landscape",
-          "Desktop"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-English-Portrait-Foldable.webp",
-        "attributes": [
-          "English",
-          "Portrait",
-          "Foldable"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-English-Portrait-Small.webp",
-        "attributes": [
-          "English",
-          "Portrait",
-          "Small"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-English-Portrait-Tablet.webp",
-        "attributes": [
-          "English",
-          "Portrait",
-          "Tablet"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-English-Portrait-XSmall.webp",
-        "attributes": [
-          "English",
-          "Portrait",
-          "XSmall"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Farsi-Landscape-Desktop.webp",
-        "attributes": [
-          "Farsi",
-          "Landscape",
-          "Desktop"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Farsi-Portrait-Foldable.webp",
-        "attributes": [
-          "Farsi",
-          "Portrait",
-          "Foldable"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Farsi-Portrait-Small.webp",
-        "attributes": [
-          "Farsi",
-          "Portrait",
-          "Small"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Farsi-Portrait-Tablet.webp",
-        "attributes": [
-          "Farsi",
-          "Portrait",
-          "Tablet"
-        ]
-      },
-      {
-        "name": "3.Authentication_2.SignUp-Farsi-Portrait-XSmall.webp",
-        "attributes": [
-          "Farsi",
-          "Portrait",
-          "XSmall"
-        ]
-      }
-    ],
+    "Sign Up": {
+      "Empty": [
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Arabic-Landscape-Desktop.webp",
+          "attributes": [
+            "Arabic",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Arabic-Portrait-Foldable.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Arabic-Portrait-Small.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Arabic-Portrait-Tablet.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Arabic-Portrait-XSmall.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-English-Landscape-Desktop.webp",
+          "attributes": [
+            "English",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-English-Portrait-Foldable.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-English-Portrait-Small.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-English-Portrait-Tablet.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-English-Portrait-XSmall.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Farsi-Landscape-Desktop.webp",
+          "attributes": [
+            "Farsi",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Farsi-Portrait-Foldable.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Farsi-Portrait-Small.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Farsi-Portrait-Tablet.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_1.Empty-Farsi-Portrait-XSmall.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "XSmall"
+          ]
+        }
+      ],
+      "Birth Date Dialog": [
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Arabic-Landscape-Desktop.webp",
+          "attributes": [
+            "Arabic",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Arabic-Portrait-Foldable.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Arabic-Portrait-Small.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Arabic-Portrait-Tablet.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Arabic-Portrait-XSmall.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-English-Landscape-Desktop.webp",
+          "attributes": [
+            "English",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-English-Portrait-Foldable.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-English-Portrait-Small.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-English-Portrait-Tablet.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-English-Portrait-XSmall.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Farsi-Landscape-Desktop.webp",
+          "attributes": [
+            "Farsi",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Farsi-Portrait-Foldable.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Farsi-Portrait-Small.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Farsi-Portrait-Tablet.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_2.BirthDateDialog-Farsi-Portrait-XSmall.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "XSmall"
+          ]
+        }
+      ],
+      "Gender Dialog": [
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Arabic-Landscape-Desktop.webp",
+          "attributes": [
+            "Arabic",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Arabic-Portrait-Foldable.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Arabic-Portrait-Small.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Arabic-Portrait-Tablet.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Arabic-Portrait-XSmall.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-English-Landscape-Desktop.webp",
+          "attributes": [
+            "English",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-English-Portrait-Foldable.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-English-Portrait-Small.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-English-Portrait-Tablet.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-English-Portrait-XSmall.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Farsi-Landscape-Desktop.webp",
+          "attributes": [
+            "Farsi",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Farsi-Portrait-Foldable.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Farsi-Portrait-Small.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Farsi-Portrait-Tablet.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_3.GenderDialog-Farsi-Portrait-XSmall.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "XSmall"
+          ]
+        }
+      ],
+      "Filled": [
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Arabic-Landscape-Desktop.webp",
+          "attributes": [
+            "Arabic",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Arabic-Portrait-Foldable.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Arabic-Portrait-Small.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Arabic-Portrait-Tablet.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Arabic-Portrait-XSmall.webp",
+          "attributes": [
+            "Arabic",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-English-Landscape-Desktop.webp",
+          "attributes": [
+            "English",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-English-Portrait-Foldable.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-English-Portrait-Small.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-English-Portrait-Tablet.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-English-Portrait-XSmall.webp",
+          "attributes": [
+            "English",
+            "Portrait",
+            "XSmall"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Farsi-Landscape-Desktop.webp",
+          "attributes": [
+            "Farsi",
+            "Landscape",
+            "Desktop"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Farsi-Portrait-Foldable.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Foldable"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Farsi-Portrait-Small.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Small"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Farsi-Portrait-Tablet.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "Tablet"
+          ]
+        },
+        {
+          "name": "3.Authentication_2.SignUp_4.Filled-Farsi-Portrait-XSmall.webp",
+          "attributes": [
+            "Farsi",
+            "Portrait",
+            "XSmall"
+          ]
+        }
+      ]
+    },
     "Verification": [
       {
         "name": "3.Authentication_3.Verification-Arabic-Landscape-Desktop.webp",

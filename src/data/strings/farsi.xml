@@ -1,0 +1,767 @@
+<resources>
+    <string name="app_name">زیستا</string>
+    <string name="language_name">Farsi</string>
+
+    <!-- Splash -->
+    <string name="version">نسخه %s</string>
+
+    <!-- Splash.LanguageDialog -->
+    <string name="select_language">زبان مورد نظر را انتخاب کنید</string>
+    <string name="confirm">تایید</string>
+
+    <!-- Splash.Connecting -->
+    <string name="connecting_to_server">در حال اتصال به سرور</string>
+
+    <!-- Splash.UpdateAvailable -->
+    <string name="update">بروزرسانی</string>
+    <string name="update_text">بروزرسانی جدید زیستا هم‌اکنون قابل دسترسی است. لطفاً زیستای خود را به آخرین نسخه بروزرسانی کنید.</string>
+    <string name="update_ok">دریافت</string>
+    <string name="update_continue">ادامه</string>
+    <string name="update_exit">خروج</string>
+    <string name="website">http://www.nasirbp.ir</string>
+    <string name="website_privacy_policy" translatable="false">https://nasirbp.ir/شرایط-و-مقررات-استفاده-از-خدمات-زیستل/</string>
+
+    <!-- OnBoarding -->
+    <string name="on_boarding_item1">در زیستا شاخص‌های سلامتی خود را به کمک دستگاه‌های زیستل انداز‌ه‌گیری کنید.</string>
+    <string name="on_boarding_item2">در زیستا به راحتی وضعیت سلامتی خود را مشاهده و با دیگران به اشتراک بگذارید.</string>
+    <string name="on_boarding_item3">در زیستا می‌توانید نتایج ثبت‌های خود را با پزشک خود به اشتراک بگذارید.</string>
+
+    <!-- Authentication.Login -->
+    <string name="login">ورود</string>
+    <string name="welcome">به زیستا خوش آمدید</string>
+    <string name="privacy_policy">استفاده از خدمات و حریم خصوصی را می‌پذیرم.</string>
+    <string name="privacy_policy_link_keyword">می‌پذیرم</string>
+    <string name="phone_number">شماره تلفن همراه</string>
+
+    <!-- Authentication.SignUp -->
+    <string name="create_account">ساخت حساب کاربری</string>
+    <string name="sign_up">ثبت نام</string>
+    <string name="first_name">نام</string>
+    <string name="last_name">نام خانوادگی</string>
+    <string name="birth_date">تاریخ تولد</string>
+    <string name="gender">جنسیت</string>
+    <string name="invalid_data">ورودی نامعتبر</string>
+
+    <!-- Authentication.SignUp.GenderDialog -->
+    <string name="male">مرد</string>
+    <string name="female">زن</string>
+
+    <!-- Authentication.SignUp.NetworkErrorDialog -->
+    <string name="connection_failed">ارتباط ناموق</string>
+    <string name="network_error_guide">لطفا از روشن بودن اینترنت تلفن همراه خود اطمینان حاصل بفرمایید</string>
+    <string name="try_again">تلاش مجدد</string>
+    <string name="call_support">تماس با پشتیبانی</string>
+
+    <!-- Authentication.Verification -->
+    <string name="user_authentication">تایید هویت کاربر</string>
+    <string name="user_authentication_guide">برای شماره تلفن همراه شما یک کد تایید هویت از طریق پیامک ارسال می شود، لطفا آن را در کادر زیر وارد کنید:</string>
+    <string name="resend">ارسال مجدد</string>
+
+    <!-- Authentication.RefreshToken -->
+    <string name="refresh_token_guide">اعتبار ورود شما تمام شده است جهت ادامه با همین شماره روی دکمه ورود کلیک کنید</string>
+    <string name="login_with_another_number">ورود با شماره‌ای دیگر</string>
+
+    <!-- Authentication.RefreshToken.ChangeNumberWarningDialog -->
+    <string name="warning">هشدار</string>
+    <string name="change_number_warning">ورود با شماره‌ای دیگر باعث می‌شود که اطلاعاتی که با سرور همگام‌سازی نشده‌اند پاک شوند. آیا ادامه می‌دهید؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+
+    <!-- Settings -->
+    <string name="nbp_synced">داده‌های زیستا بروزرسانی شد.</string>
+    <string name="nbp_syncing">زیستا در حال بروزرسانی داده‌هاست.</string>
+
+    <!-- IoUtil -->
+    <string name="share_log_no_data_error">داده‌ای برای اشتراک‌گذاری وجود ندارد.</string>
+    <string name="logo">لوگو</string>
+
+    <!-- Home -->
+    <string name="home">خانه</string>
+
+    <!-- Other -->
+    <string name="back">بازگشت</string>
+    <string name="next">بعدی</string>
+    <string name="reset_data">پاک کردن داده‌ها</string>
+    <string-array name="numbers">
+        <item>۰</item>
+        <item>۱</item>
+        <item>۲</item>
+        <item>۳</item>
+        <item>۴</item>
+        <item>۵</item>
+        <item>۶</item>
+        <item>۷</item>
+        <item>۸</item>
+        <item>۹</item>
+    </string-array>
+    <string-array name="months">
+        <item>فروردین</item>
+        <item>اردیبهشت</item>
+        <item>خرداد</item>
+        <item>تیر</item>
+        <item>مرداد</item>
+        <item>شهریور</item>
+        <item>مهر</item>
+        <item>آبان</item>
+        <item>آذر</item>
+        <item>دی</item>
+        <item>بهمن</item>
+        <item>اسفند</item>
+    </string-array>
+</resources>
+
+    <!--    <string name="app_slogan">زیستل، لمس آسان سلامتی </string>-->
+    <!--    &lt;!&ndash;    <string name="app_slogan">NBP، لمس آسان سلامتی </string>&ndash;&gt;-->
+
+    <!--    &lt;!&ndash;PdfUserData &ndash;&gt;-->
+    <!--    <string name="user_data">اطلاعات فرد</string>-->
+    <!--    &lt;!&ndash; NavBar &ndash;&gt;-->
+    <!--    <string name="history">تاریخچه</string>-->
+    <!--    <string name="home">خانه</string>-->
+    <!--    <string name="add_device">اضافه کردن دستگاه</string>-->
+
+    <!--    &lt;!&ndash; Splash &ndash;&gt;-->
+    <!--    <string name="version_text">نسخه %s</string>-->
+    <!--    <string name="check_version_error_dialog_title">خطا</string>-->
+    <!--    <string name="check_version_error_dialog_body">اعتبارسنجی نسخه‌ی برنامه ناموفق بود.</string>-->
+    <!--    <string name="force_version_dialog_title">بروزرسانی</string>-->
+    <!--    <string name="force_version_dialog_body">متاسفانه نسخه‌ی برنامه شما دیگر پشتیبانی نمی‌شود. لطفا نسخه جدید را نصب کنید.</string>-->
+    <!--    <string name="optional_version_dialog_title">بروزرسانی</string>-->
+    <!--    <string name="optional_version_dialog_body">نسخه‌ی بهبودیافته‌ای از برنامه در دسترس است. تمایل به نصب دارید؟</string>-->
+
+    <!--    &lt;!&ndash; OnBoarding &ndash;&gt;-->
+    <!--    <string name="login">ورود</string>-->
+    <!--    <string name="next">بعدی</string>-->
+    <!--    &lt;!&ndash;    <string name="on_boarding1">در نرم افزار NBP \nوضعیت سلامتی خود را بررسی کنید</string>&ndash;&gt;-->
+    <!--    &lt;!&ndash;    <string name="on_boarding2">در نرم افزار NBP \nتحلیل پزشکی اندازه گیری ها را ببینید</string>&ndash;&gt;-->
+    <!--    &lt;!&ndash;    <string name="on_boarding3">در نرم افزار NBP\nوضعیت سلامتی خود را \nبا دیگران به اشتراک بگذارید</string>&ndash;&gt;-->
+    <!--    <string name="on_boarding1">در نرم افزار زیستا \nوضعیت سلامتی خود را بررسی کنید</string>-->
+    <!--    <string name="on_boarding2">در نرم افزار زیستا \nتحلیل پزشکی اندازه گیری ها را ببینید</string>-->
+    <!--    <string name="on_boarding3">در نرم افزار زیستا\nوضعیت سلامتی خود را \nبا دیگران به اشتراک بگذارید</string>-->
+
+    <!--    &lt;!&ndash; Login &ndash;&gt;-->
+    <!--    <string name="welcome">خوش آمدید</string>-->
+    <!--    <string name="phone_input_hint">شماره تلفن همراه</string>-->
+    <!--    <string name="create_account_button">ساخت حساب کاربری</string>-->
+    <!--    <string name="invalid_phone">شماره نامعتبر است</string>-->
+    <!--    <string name="token_refresh">توکن شما منقضی شده است.\nشماره موبایل خود را تایید کنید\n تا توکن جدید ارسال شود</string>-->
+    <!--    <string name="login_with_another_account_button">ورود با شماره دیگر</string>-->
+    <!--    <string name="accpet_terms_of_privacy">شرایط استفاده از خدمات و حریم خصوصی را می پذیرم.</string>-->
+
+    <!--    &lt;!&ndash; LoginDialog &ndash;&gt;-->
+    <!--    <string name="user_account_not_found_title">حساب کاربری یافت نشد</string>-->
+    <!--    <string name="user_account_not_found">اگر تاکنون در برنامه ثبت نام نکرده‌اید\nابتدا حساب کاربری خود را ایجاد کنید</string>-->
+    <!--    <string name="login_dialog_create_account_button">ساخت حساب</string>-->
+    <!--    <string name="login_dialog_back_button">بازگشت</string>-->
+    <!--    <string name="no_network_error_title">ارتباط ناموفق</string>-->
+    <!--    <string name="no_network_error">لطفا از روشن بودن اینترنت تلفن همراه خود اطمینان حاصل بفرمایید</string>-->
+    <!--    <string name="unsaved_tests_error">بعضی از تست های شما ذخیره نشده اند. برای ذخیره آنها لطفا ابتدا وارد اکانت پیشین خود شوید.</string>-->
+    <!--    <string name="unsaved_tests_error_title">تست های ذخیره نشده</string>-->
+    <!--    <string name="delete_unsaved_tests_button">حذف تست های ذخیره نشده</string>-->
+    <!--    <string name="login_to_account_button">ورود به اکانت پیشین</string>-->
+    <!--    &lt;!&ndash; SignUp &ndash;&gt;-->
+    <!--    <string name="signup_title">ایجاد حساب کاربری</string>-->
+    <!--    <string name="signup_go_to_login">حساب کاربری دارم</string>-->
+    <!--    <string name="first_name_input_hint">نام</string>-->
+    <!--    <string name="last_name_input_hint">نام خانوادگی</string>-->
+    <!--    <string name="birth_date_input_hint">تاریخ تولد</string>-->
+    <!--    <string name="gender_input_hint">جنسیت</string>-->
+    <!--    <string name="invalid_first_name">نام نامعتبر است</string>-->
+    <!--    <string name="invalid_last_name">نام خانوادگی نامعتبر است</string>-->
+    <!--    <string name="invalid_birth_date">تاریخ تولد نامعتبر است</string>-->
+    <!--    <string name="invalid_gender">جنسیت نامعتبر است</string>-->
+    <!--    <string name="signup_error_dialog_title">خطا</string>-->
+    <!--    <string name="signup_error_dialog_body">داده نامعتبر است</string>-->
+    <!--    <string name="phone_number_exists_dialog_title">خطا</string>-->
+    <!--    <string name="phone_number_exists_dialog_body">این شماره قبلا در سیستم وارد شده است. لطفا از صفحه‌ی ورود درخواست دهید.</string>-->
+
+    <!--    &lt;!&ndash; Verification &ndash;&gt;-->
+    <!--    <string name="verification_title">تایید هویت کاربر</string>-->
+    <!--    <string name="verification_body">برای شماره تلفن همراه شما یک کد تایید هویت از طریق پیامک ارسال می شود، لطفا آن را در کادر زیر وارد کنید:</string>-->
+    <!--    <string name="verification_code_resend">ارسال مجدد</string>-->
+    <!--    <string name="verification_insert_code_error">لطفا کد را وارد کنید.</string>-->
+
+    <!--    &lt;!&ndash; VerificationDialog &ndash;&gt;-->
+    <!--    <string name="verification_dialog_title">ناموفق</string>-->
+    <!--    <string name="verification_dialog_body">کد وارد شده معتبر نمی‌باشد.</string>-->
+
+    <!--    &lt;!&ndash; UserDataLoadingDialog &ndash;&gt;-->
+    <!--    <string name="user_data_loading_dialog_title">ناموفق</string>-->
+    <!--    <string name="user_data_loading_dialog_body">بارگذاری اطلاعات کاربر ناموفق بود.</string>-->
+    <!--    <string name="load_avatar_dialog_title">ناموفق</string>-->
+    <!--    <string name="load_avatar_dialog_body">بارگذاری تصویر کاربر ناموفق بود.</string>-->
+
+    <!--    &lt;!&ndash; SendCodeDialog &ndash;&gt;-->
+    <!--    <string name="send_code_dialog_title">ناموفق</string>-->
+    <!--    <string name="send_code_dialog_body">ارسال کد ناموفق بود.</string>-->
+
+    <!--    &lt;!&ndash; InAppTutorial &ndash;&gt;-->
+    <!--    <string name="profile_intro_title">حساب کابری شما</string>-->
+    <!--    <string name="profile_intro_desc">برای تغییر اطلاعات شخصی خود به این بخش مراجعه کنید.</string>-->
+    <!--    <string name="home_menu_intro_title">صفحه خانه</string>-->
+    <!--    <string name="home_menu_intro_desc">نمایش وضعیت، سیگنال و ضربان قلب</string>-->
+    <!--    <string name="add_device_menu_intro_title">لیست دستگاه های شما</string>-->
+    <!--    <string name="add_device_menu_intro_desc">برای اضافه کردن دستگاه جدید یا وصل شدن به دستگاه های ذخیره شده به این بخش مراجعه کنید.</string>-->
+    <!--    <string name="history_menu_intro_title">تاریخچه</string>-->
+    <!--    <string name="history_menu_intro_desc">برای مشاهده ثبت های ذخیره شده قبلی به این بخش مراجعه کنید.</string>-->
+    <!--    <string name="history_month_search_intro_title">انتخاب سریع ماه</string>-->
+    <!--    <string name="history_month_search_intro_desc">با کلیک بر روی ماه، میتوانید تاریخ ماه نظر خود را انتخاب کنید.</string>-->
+    <!--    <string name="history_calendar_intro_title">تقویم</string>-->
+    <!--    <string name="history_calendar_intro_desc">در صورتی که در تاریخی، تستی ذخیره کرده باشید، آن تاریخ در یک دایره سبز قرار گرفته و با لمس آن می توانید به تست های آن تاریخ دسترسی پیدا کنید.</string>-->
+
+    <!--    &lt;!&ndash; Home &ndash;&gt;-->
+    <!--    <string name="arr_card_title">وضعیت قلب</string>-->
+    <!--    <string name="arr_card_footer">تشخیص آریتمی</string>-->
+    <!--    <string name="ecg_card_title">ضربان قلب</string>-->
+    <!--    <string name="bp_status_card_title">وضعیت فشار خون</string>-->
+    <!--    <string name="bp_value_card_title">مقدار فشار خون</string>-->
+    <!--    <string name="bp_value_sys_label">sys</string>-->
+    <!--    <string name="bp_value_dia_label">dia</string>-->
+    <!--    <string name="graph_title">آخرین سیگنال قلب</string>-->
+    <!--    <string name="graph_no_data">هیچ سیگنالی یافت نشد</string>-->
+    <!--    <string name="hr_rate_template">%s تپش در دقیقه</string>-->
+    <!--    <string name="hr_rate">تپش در دقیقه</string>-->
+    <!--    <string name="dialog_logout_error_title">خطا</string>-->
+    <!--    <string name="dialog_logout_error_body">خروج از حساب کاربری با مشکل مواجه شد. دوباره تلاش کنید.</string>-->
+    <!--    <string name="dialog_get_products_error_title">خطا</string>-->
+    <!--    <string name="dialog_get_products_error_body">دریافت اطلاعات دستگاه‌های کاربر ناموفق بود.</string>-->
+    <!--    <string name="heal_monitoring_subscription">اشتراك پايش سلامت : </string>-->
+    <!--    <string name="subscription_days_left">روز مانده</string>-->
+    <!--    <string name="no_subscription_plan">اشتراكي نداريد</string>-->
+    <!--    &lt;!&ndash; HomeMenu &ndash;&gt;-->
+    <!--    <string name="home_menu_profile">پروفایل</string>-->
+    <!--    <string name="home_menu_website">وبسایت</string>-->
+    <!--    <string name="home_menu_call_support">تماس با پشتیبانی</string>-->
+    <!--    <string name="home_menu_chat_support">پیام به پشتیبانی</string>-->
+    <!--    <string name="home_menu_share">اشتراک‌گذاری گزارش‌ها</string>-->
+    <!--    <string name="home_menu_settings">تنظیمات</string>-->
+    <!--    <string name="home_menu_logout">خروج از حساب کاربری</string>-->
+    <!--    <string name="home_menu_log_recorder">Log</string>-->
+    <!--    <string name="home_menu_benchmark">Benchmark</string>-->
+
+    <!--    &lt;!&ndash; Settings &ndash;&gt;-->
+    <!--    <string name="settings_title">تنظیمات</string>-->
+    <!--    <string name="synchronization">همگام‌سازی</string>-->
+    <!--    <string name="synchronization_details">هماهنگ‌سازی اطلاعات در فضای ابری و تلفن همراه شما</string>-->
+    <!--    <string name="right_now">همین الان</string>-->
+    <!--    <string name="history_details">مدت زمان نگهداری اطلاعات روی تلفن همراه شما</string>-->
+    <!--    <string name="cleanup">پاکسازی</string>-->
+    <!--    <string name="cleanup_details">حذف تمام اطلاعات قبلی از گوشی همراه شما</string>-->
+    <!--    <string name="nbp_syncing">زیستا در حال بروزرسانی داده‌هاست.</string>-->
+    <!--    &lt;!&ndash;    <string name="nbp_syncing">زیستل در حال بروزرسانی داده‌هاست.</string>&ndash;&gt;-->
+    <!--    &lt;!&ndash;    <string name="nbp_syncing">NBP در حال بروزرسانی داده‌هاست.</string>&ndash;&gt;-->
+    <!--    <string name="nbp_synced">داده‌های زیستا بروزرسانی شد.</string>-->
+    <!--    &lt;!&ndash;    <string name="nbp_synced">داده‌های NBP بروزرسانی شد.</string>&ndash;&gt;-->
+
+    <!--    &lt;!&ndash; Profile &ndash;&gt;-->
+    <!--    <string name="profile_title">اطلاعات شخصی</string>-->
+    <!--    <string name="profile_username">نام و نام خانوادگی</string>-->
+    <!--    <string name="profile_firstname">نام</string>-->
+    <!--    <string name="profile_lastname">نام خانوادگی</string>-->
+    <!--    <string name="profile_not_editable">غیرقابل تغییر</string>-->
+    <!--    <string name="profile_phone">شماره تلفن همراه</string>-->
+    <!--    <string name="profile_email">پست الکترونیک</string>-->
+    <!--    <string name="profile_confirmed">تایید شده</string>-->
+    <!--    <string name="profile_gender">جنسیت</string>-->
+    <!--    <string name="profile_birth_date">تاریخ تولد</string>-->
+    <!--    <string name="dialog_profile_error_title">خطا</string>-->
+    <!--    <string name="dialog_profile_error_body">بروزرسانی پروفایل با مشکل مواجه شد. دوباره تلاش کنید.</string>-->
+    <!--    <string name="remove_avatar_error_title">خطا</string>-->
+    <!--    <string name="remove_avatar_error_body">حذف تصویر پروفایل با مشکل مواجه شد. دوباره تلاش کنید.</string>-->
+
+    <!--    &lt;!&ndash; EditAvatarExpander &ndash;&gt;-->
+    <!--    <string name="avatar_remove">حذف</string>-->
+    <!--    <string name="avatar_from_gallery">آلبوم</string>-->
+    <!--    <string name="avatar_from_camera">دوربین</string>-->
+
+    <!--    &lt;!&ndash; AvatarDialog &ndash;&gt;-->
+    <!--    <string name="preview_new_avatar_dialog_title">پیش نمایش تصویر</string>-->
+    <!--    <string name="dialog_avatar_error_title">خطا</string>-->
+    <!--    <string name="dialog_avatar_error_body">بروزرسانی تصویر پروفایل با مشکل مواجه شد. دوباره تلاش کنید.</string>-->
+
+    <!--    &lt;!&ndash; AddDevice &ndash;&gt;-->
+    <!--    <string name="device_type">دستگاه %s</string>-->
+    <!--    <string name="device_details">نام دستگاه: %1$s\nگارانتی: %2$s</string>-->
+    <!--    <string name="n_months">%d ماه</string>-->
+    <!--    <string name="n_days">%d روز</string>-->
+    <!--    <string name="no_device_find">تاکنون هیچ دستگاهی یافت نشد</string>-->
+    <!--    <string name="add_new_device">اضافه کردن دستگاه جدید</string>-->
+    <!--    <string name="remove_device_title">حذف دستگاه</string>-->
+    <!--    <string name="remove_device_body">آیا می‌خواهید این دستگاه را حذف کنید؟</string>-->
+    <!--    <string name="edit_device_title">تغییر نام دستگاه</string>-->
+
+    <!--    &lt;!&ndash; DevicePairing &ndash;&gt;-->
+    <!--    <string name="searching_for_device">در جستجوی دستگاه</string>-->
+    <!--    <string name="device_scan_instruction1">برای اتصال به دستگاه\nدکمه پاور دستگاه را 3 ثانیه نگه دارید\nتا به حالت چشمک زن سبز و آبی برود</string>-->
+    <!--    <string name="device_scan_instruction2">برای اتصال به دستگاه\nدستگاه را روشن کنید\nو منتظر اتصال بمانید</string>-->
+    <!--    <string name="dialog_device_not_found_body">متاسفانه دستگاهی یافت نشد</string>-->
+
+    <!--    &lt;!&ndash; BleScan &ndash;&gt;-->
+    <!--    <string name="device_banned">دستگاه وارد لیست سیاه شده است</string>-->
+    <!--    <string name="device_saved">دستگاه قبلا ذخیره شده است</string>-->
+
+    <!--    &lt;!&ndash; GPS &ndash;&gt;-->
+    <!--    <string name="gps_alert">برای استفاده از دستگاه لازم است gps دستگاه خود را روشن کنید.</string>-->
+
+    <!--    &lt;!&ndash; Permission &ndash;&gt;-->
+    <!--    <string name="permission_title">برای اتصال به دستگاه</string>-->
+    <!--    <string name="permission_network_item">اینترنت تلفن همراه خود را فعال کنید</string>-->
+    <!--    <string name="permission_location_item">مکان‌یاب (لوکیشن) تلفن همراه خود را فعال کنید</string>-->
+    <!--    <string name="permission_bluetooth_item">بلوتوث تلفن همراه خود را فعال کنید</string>-->
+
+    <!--    &lt;!&ndash; Preview &ndash;&gt;-->
+    <!--    <string name="device_model">مدل دستگاه</string>-->
+    <!--    <string name="device_warranty">ضمانت دستگاه</string>-->
+    <!--    <string name="device_name">نام دستگاه</string>-->
+    <!--    <string name="device_confirm">تایید دستگاه</string>-->
+    <!--    <string name="device_remove">حذف دستگاه</string>-->
+    <!--    <string name="rescan">جستجوی مجدد</string>-->
+    <!--    <string name="device_detail_error_title">خطا</string>-->
+    <!--    <string name="device_detail_error_body">دریافت اطلاعات دستگاه ناموفق بود.</string>-->
+    <!--    <string name="device_registry_error_title">خطا</string>-->
+    <!--    <string name="device_registry_error_body">ثبت دستگاه ناموفق بود.</string>-->
+    <!--    <string name="device_name_in_use_error_title">خطا</string>-->
+    <!--    <string name="device_name_in_use_error_body">نام دستگاه تکراری است.</string>-->
+    <!--    <string name="device_in_use_error_title">خطا</string>-->
+    <!--    <string name="device_in_use_error_body">دستگاه قبلا ذخیره شده است.</string>-->
+
+    <!--    &lt;!&ndash; DeviceConnection &ndash;&gt;-->
+    <!--    <string name="connecting_to_device">درحال اتصال به دستگاه</string>-->
+
+    <!--    &lt;!&ndash; BpGuide &ndash;&gt;-->
+    <!--    <string name="bp_guide_title">برای اندازه گیری دقیق فشار خون :</string>-->
+    <!--    <string name="bp_guide_body">• مشابه تصویر روبرو بنشینید\n\n• کاملا ساکت و بی حرکت بمانید</string>-->
+    <!--    <string name="bp_guide_more_advices">برای توصیه‌های بیشتر کلیک کنید</string>-->
+    <!--    <string name="start">شروع</string>-->
+    <!--    <string name="bp_guide_tech_error">دستگاه دچار مشکل فنی شده است\nلطفا با پشتیبانی تماس بگیرید</string>-->
+    <!--    <string name="low_battery_charging_error_title">خطای باتری</string>-->
+    <!--    <string name="low_battery_charging_error_body">استفاده از فشارسنج در حالت شارژ باتری توصیه نمی‌شود.</string>-->
+
+    <!--    &lt;!&ndash; BpTest &ndash;&gt;-->
+    <!--    <string name="pumping">در حال باد کردن کاف</string>-->
+    <!--    <string name="template_mmhg">%s\nمیلی‌متر جیوه</string>-->
+    <!--    <string name="mmhg">میلی‌متر جیوه</string>-->
+    <!--    <string name="user_bp_stop_dialog_title">شما فرآیند فشارگیری را متوقف کرده‌اید</string>-->
+    <!--    <string name="bp_stop_dialog_title">فرآیند فشارگیری متوقف شد</string>-->
+    <!--    <string name="analysing">در حال آنالیز کردن</string>-->
+    <!--    <string name="trying_to_reconnect">در حال اتصال مجدد به دستگاه</string>-->
+    <!--    <string name="movement_error_title">خطای حرکتی</string>-->
+    <!--    <string name="movement_error_body">لطفا در حین فرآیند اندازه‌گیری فشار خون از صحبت و حرکت کردن خودداری بفرمایید</string>-->
+    <!--    <string name="bp_connection_error_title">ارتباط ناموفق</string>-->
+    <!--    <string name="bp_connection_error_body">لطفا از روشن بودن دستگاه و یا بلوتوث تلفن همراه خود اطمینان حاصل بفرمایید</string>-->
+    <!--    <string name="cuff_not_connected_error_body">کاف به فشار سنج متصل نیست</string>-->
+    <!--    <string name="cuff_device_low_pressure_error_title">افت فشار کاف</string>-->
+    <!--    <string name="cuff_device_low_pressure_error_body">لطفا از بسته بودن کاف و یا اتصال آن به دستگاه اطمینان حاصل بفرمایید</string>-->
+    <!--    <string name="cuff_device_high_pressure_error_title">افزایش غیر عادی فشار کاف</string>-->
+    <!--    <string name="cuff_device_high_pressure_error_body">شلنگ کاف مسدود شده است لطفا خروجی نازل کاف را چک کنید</string>-->
+    <!--    <string name="cuff_loose_error_body">لطفا از محکم بسته بون کاف روی بازو اطمینان حاصل بفرمایید</string>-->
+    <!--    <string name="bp_user_stop_error_body">شما فرآیند فشارگیری را متوقف کرده‌اید</string>-->
+    <!--    <string name="high_pressure_error_title">هشدار وضعیت سلامتی</string>-->
+    <!--    <string name="high_pressure_error_body">فشار شما بالا است\nلطفا در اسرع وقت با پزشک ارتباط بگیرید</string>-->
+    <!--    <string name="emergency_call">تماس با اورژانس</string>-->
+
+    <!--    &lt;!&ndash; BpResult &ndash;&gt;-->
+    <!--    <string name="your_results">نتایج اندازه‌گیری شما</string>-->
+    <!--    <string name="who_results">نتایج بر اساس WHO</string>-->
+    <!--    <string name="your_bp">فشار شما</string>-->
+    <!--    <string name="result_comparison_graph">نمودار مقایسه نتایج</string>-->
+    <!--    <string name="result_comparison_table">جدول مقایسه نتایج</string>-->
+    <!--    <string name="dia">دیاستولیک</string>-->
+    <!--    <string name="sys">سیستولیک</string>-->
+    <!--    <string name="hr">ضربان قلب</string>-->
+    <!--    <string name="average">میانگین</string>-->
+    <!--    <string name="max">بیشترین</string>-->
+    <!--    <string name="min">کمترین</string>-->
+    <!--    <string name="standard_deviation">انحراف معیار</string>-->
+    <!--    <string name="last_month_bp">فشار خون شما\n\nدر\n\nیک ماه گذشته</string>-->
+    <!--    <string name="note">یادداشت</string>-->
+    <!--    <string name="record">ضبط صدا</string>-->
+    <!--    <string name="comment_hint">برای نوشتن اینجا کلیک کنید</string>-->
+    <!--    <string name="convert_to_pdf">تبدیل به pdf</string>-->
+    <!--    <string name="share">اشتراک گذاری</string>-->
+    <!--    <string name="share_pref">تنظیمات اشتراک‌گذاری گزارش‌ها</string>-->
+    <!--    <string name="save">ذخیره</string>-->
+    <!--    <string name="remove">حذف کردن</string>-->
+    <!--    <string name="update">بروزرسانی</string>-->
+    <!--    <string name="remove2">حذف</string>-->
+    <!--    <string name="report_data_lose_confirmation_title">شما این گزارش را ذخیره نکرده‌اید</string>-->
+    <!--    <string name="report_data_lose_confirmation_body">آیا می‌خواهید از این صفحه خارج شوید؟</string>-->
+    <!--    <string name="report_data_deletion_title">حذف گزارش</string>-->
+    <!--    <string name="report_data_deletion_body">آیا می‌خواهید این گزارش را حذف کنید؟</string>-->
+    <!--    <string name="bp_level_normal">فشار نرمال</string>-->
+    <!--    <string name="bp_level_medium">فشار متوسط</string>-->
+    <!--    <string name="bp_level_yellow">فشار بالا</string>-->
+    <!--    <string name="bp_level_orange">فشار خیلی بالا</string>-->
+    <!--    <string name="bp_level_red">فشار هشدار</string>-->
+    <!--    <string name="bp_level2_normal">نرمال</string>-->
+    <!--    <string name="bp_level2_medium">متوسط</string>-->
+    <!--    <string name="bp_level2_yellow">بالا</string>-->
+    <!--    <string name="normal">Normal</string>-->
+    <!--    <string name="afib">Afib</string>-->
+    <!--    <string name="record_label">برای ضبط صدا روی میکروفون ضربه بزنید.</string>-->
+    <!--    <string name="record_remove">برای حذف صدا به سمت چپ بکشید</string>-->
+    <!--    <string name="choose_share_mode_title">شیوه‌ی اشتراک گذاری</string>-->
+    <!--    <string name="choose_share_mode_body">مایل به اشتراک گذاری این تست به صورت فایل متنی هستید؟ یا با کاربر دیگر؟</string>-->
+    <!--    <string name="with_user">کاربری</string>-->
+    <!--    <string name="via_text">متنی</string>-->
+
+    <!--    &lt;!&ndash; Arrhythmia &ndash;&gt;-->
+    <!--    <string name="afib_description">آریتمی فیبریلاسیون دهلیزی (Afib): این آریتمی هنگامی رخ می‌دهد که تحریک در دهلیزها  نامنظم شده و جهت مشخصی نداشته باشد؛ یعنی سلول‌های عضلانی دهلیز به صورت نامنظم و غیر از محل گره سینوسی دهلیزی تحریک می‌شوند.</string>-->
+    <!--    <string name="normal_description">قلب شما سالم است.</string>-->
+
+    <!--    &lt;!&ndash; BpGraph &ndash;&gt;-->
+    <!--    <string name="bp_graph_year">سال %s</string>-->
+
+    <!--    &lt;!&ndash; EcgGuide &ndash;&gt;-->
+    <!--    <string name="ecg_guide_title">برای شروع دست‌های خود را مطابق تصویر روی دستگاه قرار دهید:</string>-->
+    <!--    <string name="ecg_guide_instructions">• از قبل دست‌های خود را تمیز کنید\n• انگشتان خود را آرام و بی حرکت روی الکترودها قرار دهید</string>-->
+    <!--    <string name="ecg_guide_advanced_settings">تنظیمات پیشرفته</string>-->
+    <!--    <string name="single_lead">تک لید</string>-->
+    <!--    <string name="six_lead">شش لید</string>-->
+    <!--    <string name="lead_test_duration">مدت زمان ثبت</string>-->
+    <!--    <string name="ecg_guide_tech_error_title">خطای EE1</string>-->
+    <!--    <string name="ecg_guide_tech_error_body">دستگاه دچار مشکل فنی شده است\nلطفا با پشتیبانی تماس بگیرید</string>-->
+    <!--    <string name="template_ecg_user_stop1_title">توقف اضطراری</string>-->
+    <!--    <string name="template_ecg_user_stop1_body">شما قبل از شروع اندازه‌گیری %s خود را از روی الکترودها برداشته‌اید</string>-->
+    <!--    <string name="template_ecg_user_stop2_title">توقف</string>-->
+    <!--    <string name="template_ecg_user_stop2_body">شما قبل از مدت زمان مشخص شده %s خود را از روی الکترودها برداشته‌اید</string>-->
+    <!--    <string name="template_ecg_user_stop2_save_signal">ثبت سیگنال</string>-->
+    <!--    <string name="hands">دست‌های</string>-->
+    <!--    <string name="left_hand">دست چپ</string>-->
+    <!--    <string name="right_hand">دست راست</string>-->
+    <!--    <string name="leg">پای</string>-->
+    <!--    <string name="signal_config">تنظیم سیگنال</string>-->
+    <!--    <string name="frequency">فرکانس (Hz)</string>-->
+    <!--    <string name="amplitude">دامنه (mV)</string>-->
+
+    <!--    &lt;!&ndash; EcgTest &ndash;&gt;-->
+    <!--    <string name="ecg_saturation_error_title">خطای اشباع</string>-->
+    <!--    <string name="ecg_saturation_error_body">سیگنال شما در زمان ثبت به اشباع رسید.</string>-->
+    <!--    <string name="test_post_error_dialog_title">خطا</string>-->
+    <!--    <string name="test_post_error_dialog_body">ذخیره‌سازی تست دچار مشکل شده‌است.</string>-->
+    <!--    <string name="get_tests_error_dialog_title">خطا</string>-->
+    <!--    <string name="get_tests_error_dialog_body">بارگذاری تست‌های کاربر از سرور ناموفق بود.</string>-->
+    <!--    <string name="remove_test_error_dialog_title">خطا</string>-->
+    <!--    <string name="remove_test_error_dialog_body">حذف تست دچار مشکل شده‌است.</string>-->
+
+    <!--    &lt;!&ndash; EcgSettings &ndash;&gt;-->
+    <!--    <string name="advanced_settings">تنظیمات پیشرفته</string>-->
+    <!--    <string name="recommended_settings">تنظیمات پیشنهادی</string>-->
+    <!--    <string name="notch_filter">ناچ فیلتر</string>-->
+    <!--    <string name="notch_filter_short">ناچ</string>-->
+    <!--    <string name="notch_filter_description">حذف فرکانس 50 هرتز و برق شهری</string>-->
+    <!--    <string name="notch_filter_description2">حذف فرکانس 50 هرتز</string>-->
+    <!--    <string name="low_pass_filter">فیلتر پایین گذر</string>-->
+    <!--    <string name="low_pass_filter_short"> پایین گذر </string>-->
+    <!--    <string name="low_pass_filter_description">حذف فرکانس‌های 65 هرتز به بالا</string>-->
+    <!--    <string name="voltage_scale_label">مقیاس ولتاژی</string>-->
+    <!--    <string name="voltage_scale_is_label">مقیاس ولتاژی :</string>-->
+    <!--    <string name="voltage_scale_is_label2">مقیاس ولتاژی</string>-->
+    <!--    <string name="template_voltage_scale">%s mm/mv</string>-->
+    <!--    <string name="template_voltage_scale_inv">mm/mv %s</string>-->
+    <!--    <string name="high_pass_filter">فیلتر بالا گذر</string>-->
+    <!--    <string name="high_pass_filter_short">بالا گذر</string>-->
+    <!--    <string name="high_pass_filter_description">حذف فرکانس‌های 0.65 هرتز به پایین و Baseline</string>-->
+    <!--    <string name="enhancement_filter">ارتقا کیفیت</string>-->
+    <!--    <string name="enhancement_filter_description">فعال‌سازی الگوریتم نرم‌افزاری برای بهبود کیفیت</string>-->
+    <!--    <string name="time_scale_label">سرعت، مقیاس زمانی</string>-->
+    <!--    <string name="time_scale_is_label">سرعت، مقیاس زمانی :</string>-->
+    <!--    <string name="time_scale_is_label2">سرعت،\nمقیاس زمانی</string>-->
+    <!--    <string name="template_time_scale">%s mm/s</string>-->
+    <!--    <string name="template_time_scale_inv">mm/s %s</string>-->
+
+    <!--    &lt;!&ndash; EcgResult &ndash;&gt;-->
+    <!--    <string name="filters">فیلترها</string>-->
+    <!--    <string name="hr_module">ضربان قلب</string>-->
+    <!--    <string name="scales">مقیاس‌ها</string>-->
+    <!--    <string name="dialog_test_sharing_failed_title">خطا</string>-->
+    <!--    <string name="dialog_test_sharing_failed_body">اشتراک گذاری ناموفق بود.</string>-->
+    <!--    <string name="dialog_test_update_failed_title">خطا</string>-->
+    <!--    <string name="dialog_test_update_failed_body">بروزرسانی تست ناموفق بود.</string>-->
+    <!--    <string name="filters_unavailability_description">تغییرات در فیلترها در حال حاضر امکان‌پذیر نیست.\n به زودی این امکان فعال می‌شود</string>-->
+    <!--    <string name="your_test_analysis">تحلیل نتایج شما</string>-->
+    <!--    <string name="ecg_average_hr">ضربان قلب متوسط</string>-->
+    <!--    <string name="error_hr_calculation">عدم امکان محاسبه</string>-->
+    <!--    <string name="calculating">در حال محاسبه</string>-->
+    <!--    <string name="analyze_by_specialist">تحليل توسط پزشك</string>-->
+    <!--    <string name="buy_subscription_dialog_body">برای بررسی نتایج شاخص سلامت توسط پزشک باید اشتراک بخرید.</string>-->
+    <!--    <string name="assurance_of_sharing_with_doctor_dialog_body">آیا از ارسال نتایج برای پزشک مطمئن هستید؟</string>-->
+    <!--    <string name="shared_with_doctor_successfully_dialog_body">نتایج برای پزشک ارسال شد. پاسخ پزشک حداکثر تا 24 ساعت دیگر برای شما پیامک می‌شود.</string>-->
+    <!--    <string name="share_with_doctor_failed_dialog_body">اشتراک گذاری با پزشک با مشکل مواجه شد</string>-->
+    <!--    <string name="share_with_doctor_failed_dialog_title">خطای اشتراک گذاری</string>-->
+    <!--    <string name="processing">در حال پردازش</string>-->
+    <!--    <string name="click_to_analyze">برای تحلیل کلیک کنید</string>-->
+
+    <!--    &lt;!&ndash;New user data &ndash;&gt;-->
+    <!--    <string name="username_input_hint">نام و نام خانوادگی</string>-->
+
+
+    <!--    &lt;!&ndash;ArrhythmiasDialog &ndash;&gt;-->
+    <!--    <string name="tachycardia_description">آریتمی تاکی‌کاردی زمانی اتفاق می‌افتد که قلب شما در حالت استراحت، بیش از 100 بار در دقیقه بتپد.</string>-->
+    <!--    <string name="bradycardia_description">آریتمی برادی‌کاردی زمانی اتفاق می‌افتد که قلب شما در حالت استراحت، کمتر از 50 بار در دقیقه بتپد.</string>-->
+    <!--    <string name="VT_VT_description">آریتمی بطنی (VT/VF) یک ریتم سریع قلب است که در حفره‌های پایینی یا بطن‌های قلب رخ می‌دهد. این وضعیت ممکن است باعث اختلالاتی در عملکرد قلب و ضربان قلب شود.</string>-->
+    <!--    <string name="AF_description">آریتمی فیبریلاسیون دهلیزی (AF) یک ریتم قلبی نامنظم و معمولا با ضربان قلب بالاست که حفرات بالایی قلب (دهلیزها) بطور نامنظم منقبض می‌شوند.</string>-->
+    <!--    <string name="PVC_description">آریتمی PVC به دلیل دخالت نوعی ضربان غیرطبیعی و زودرس در ریتم طبیعی قلب، به وجود می‌آید. این آریتمی معمولاً به دلیل عدم صحیح کارکرد بخش‌های خاصی از قلب ایجاد می‌شود و می‌تواند نیاز به بررسی و درمان داشته باشد.</string>-->
+    <!--    <string name="PAC_description">آریتمی PAC زمانی اتفاق می‌افتد که پالس الکتریکی یکی از دو حفره فوقانی قلب، یعنی دهلیزها، قبل از ضربان طبیعی قلب صادر شود و باعث انقباض زودهنگام قلب شود. اکثر مردم در مقطعی از زندگی خود PAC را تجربه می‌کنند و اغلب نتیجه استرس، کافئین یا الکل است.</string>-->
+    <!--    <string name="know_more">اگر می‌خواهید در مورد این بیماری بیشتر بدانید</string>-->
+    <!--    <string name="no_arr_detected">قلب شما سالم است</string>-->
+    <!--    <string name="arr_deteced">شما احتمالاً آریتمی دارید</string>-->
+    <!--    <string name="click_here">(کلیک کنید)</string>-->
+    <!--    <string name="unclear">نامشخص</string>-->
+    <!--    <string name="short_len_description">مدت زمان سیگنال شما بسیار کوتاه است. \nجهت تحلیل سیگنال قلب نیاز است که به مدت حداقل 1 دقیقه و 30 ثانیه سیگنال خود را ثبت کنید. </string>-->
+    <!--    <string name="hr_avg_error_desc"> عدم امکان محاسبه ضربان قلب متوسط ممکن است به دلایل زیر اتفاق بیفتد: \n-->
+    <!-- 1-مدت زمان ثبت سیگنال شما بسیار کوتاه بوده است \n-->
+    <!--2-سیگنال شما دارای نویز و کیفیت نامناسب بوده است \n-->
+    <!--لطفا مدت زمان ثبت سیگنال را افزایش و جهت دریافت کیفیت مطلوب سیگنال، پوست خود را مرطوب کنید و مجدد نوار قلب بگیرید.</string>-->
+    <!--    <string name="no_arr_detected_description">وضعیت سالم قلب به این معناست که آریتمی‌های برادیکاردی، تاکیکاردی، بطنی (VT/VF)، فیبریلاسیون دهلیزی (AF)، انقباض زودرس بطنی (PVC) و ضربان زودرس دهلیزی (PAC) در نوار قلب شما تشخیص داده نشده است.\n در صورت وجود علائم ناراحتی قلبی، حتماً به پزشک متخصص مراجعه کنید.</string>-->
+    <!--    <string name="arr_dialog_suggestion">طی چند روز آینده، چندین نوارقلب از خود بگیرید و در صورت مشاهده مکرر این آریتمی (ها)، برای بررسی بیشتر از یک پزشک راهنمایی بگیرید.</string>-->
+    <!--    <string name="hr_arr_result">در نوار قلب شما، آریتمی %s رخ داده است. </string>-->
+    <!--    <string name="hr_arr_resultt">در نوار قلب شما با احتمال %1$s درصد، %2$s بار آریتمی %3$s رخ داده است. </string>-->
+    <!--    <string name="arr_result">در نوار قلب شما با احتمال s$1% درصد، s$2% بار آریتمی s$3% رخ داده است. </string>-->
+    <!--    <string name="tachycardia">تاکی‌کاردی</string>-->
+    <!--    <string name="bradycardia">برادی‌کاردی</string>-->
+    <!--    <string name="VT_VF">بطنی </string>-->
+    <!--    <string name="PVC"> PVC </string>-->
+    <!--    <string name="PAC">PAC</string>-->
+    <!--    <string name="AF">فیبریلاسیون دهلیزی</string>-->
+    <!--    <string name="arr_possibility">در نوار قلب شما ممکن است نشانه‌های آریتمی %s وجود داشته باشد.</string>-->
+
+    <!--    <string name="zistel_advice">طی چند روز آینده، چندین نوارقلب از خود بگیرید و در صورت مشاهده مکرر این آریتمی (ها)، برای بررسی بیشتر از یک پزشک راهنمایی بگیرید.</string>-->
+
+    <!--    &lt;!&ndash; Pdf user data&ndash;&gt;-->
+    <!--    <string name="chooser_user_data_pdf_title">مشخصات پي دي اف</string>-->
+    <!--    <string name="choose_user_data_pdf_body">تمايل داريد پي دي اف با مشخصات چه كسي باشد؟</string>-->
+    <!--    <string name="self_data_button">خودم</string>-->
+    <!--    <string name="others_data_button">ديگري</string>-->
+
+    <!--    &lt;!&ndash; History &ndash;&gt;-->
+    <!--    <string name="today">تاریخ امروز</string>-->
+    <!--    <string name="sat">شنبه</string>-->
+    <!--    <string name="sun">یکشنبه</string>-->
+    <!--    <string name="mon">دوشنبه</string>-->
+    <!--    <string name="tue">سه‌شنبه</string>-->
+    <!--    <string name="wed">چهارشنبه</string>-->
+    <!--    <string name="thr">پنجشنبه</string>-->
+    <!--    <string name="fri">جمعه</string>-->
+
+    <!--    &lt;!&ndash; HistoryDetails &ndash;&gt;-->
+    <!--    <string name="template_device_name">دستگاه %s</string>-->
+    <!--    <string name="template_time">ساعت %s</string>-->
+    <!--    <string name="test_not_found">تست پیدا نشد.</string>-->
+    <!--    <string name="remote_test_load_error_title">خطا</string>-->
+    <!--    <string name="remote_test_load_error_body">بارگذاری تست ناموفق بود.</string>-->
+    <!--    <string name="remove_test_title">حذف</string>-->
+    <!--    <string name="remove_test_body">تمایل به حذف تست را دارید؟</string>-->
+    <!--    <string name="un_share_test_title">لغو اشتراک گذاری</string>-->
+    <!--    <string name="un_share_test_body">تمایل به لغو اشتراک گذاری تست را دارید؟</string>-->
+    <!--    <string name="no_test_found">تستي در اين تاريخ ذخيره نشده</string>-->
+
+    <!--    &lt;!&ndash; EcgPdf &ndash;&gt;-->
+    <!--    <string name="ecg_pdf_title">گزارش ثبت سیگنال قلب</string>-->
+    <!--    <string name="not_processed">پردازش نشده</string>-->
+    <!--    <string name="ecg_pdf_arr_status">آریتمی: %s</string>-->
+    <!--    <string name="ecg_pdf_description1">تاریخ: %1$s ‌ ‌ ‌ ‌ ‌ ‌ ‌ ساعت: %2$s ‌ ‌ ‌ ‌ ‌ ‌ ‌ مدت زمان ثبت: %3$s</string>-->
+    <!--    <string name="ecg_pdf_description2">نام و نام خانوادگی: %1$s ‌ ‌ ‌ ‌ ‌ جنسیت: %2$s ‌ ‌ ‌ ‌ ‌ تاریخ تولد: %3$s</string>-->
+    <!--    <string name="ecg_pdf_missing_high_pass">فیلتر بالا گذر برای ذخیره pdf لازم است.</string>-->
+    <!--    <string name="ecg_pdf_unable_to_calculate">عدم امکان محاسبه</string>-->
+
+    <!--    &lt;!&ndash; BpPdf &ndash;&gt;-->
+    <!--    <string name="bp_pdf_title">گزارش اندازه‌گیری فشارخون</string>-->
+    <!--    <string name="bp_pdf_description">نام و نام خانوادگی: %1$s\n\nجنسیت: %2$s\n\nتاریخ تولد: %3$s</string>-->
+    <!--    <string name="bp_pdf_measurement_results">نتایج اندازه‌گیری</string>-->
+    <!--    <string name="bp_pdf_date">تاریخ: %s</string>-->
+    <!--    <string name="bp_pdf_time">ساعت: %s</string>-->
+    <!--    <string name="bp_pdf_sys">سیستولیک: %s میلی متر جیوه</string>-->
+    <!--    <string name="bp_pdf_dia">دیاستولیک: %s میلی متر جیوه</string>-->
+    <!--    <string name="bp_pdf_bp_status">وضعیت فشار: %s</string>-->
+    <!--    <string name="bp_pdf_hr">ضربان قلب: %s تپش در دقیقه</string>-->
+    <!--    <string name="bp_pdf_arr_status">وضعیت آریتمی: %s</string>-->
+    <!--    <string name="bp_pdf_abundance_percentage">درصد فراوانی آریتمی</string>-->
+    <!--    <string name="bp_pdf_qualitative_status">وضعیت کیفی فشار خون بر اساس WHO</string>-->
+    <!--    <string name="bp_pdf_comparison_chart">جدول مقایسه نتایج</string>-->
+    <!--    <string name="bp_pdf_comparison_graph">نمودار مقایسه نتایج گذشته</string>-->
+    <!--    <string name="bp_pdf_status_header_0">دسته بندی فشار خون</string>-->
+    <!--    <string name="bp_pdf_status_1_1">کمتر از 120</string>-->
+    <!--    <string name="bp_pdf_status_1_2">کمتر از 80</string>-->
+    <!--    <string name="bp_pdf_status_2_1">120 – 129</string>-->
+    <!--    <string name="bp_pdf_status_2_2">کمتر از 80</string>-->
+    <!--    <string name="bp_pdf_status_3_1">130 – 139</string>-->
+    <!--    <string name="bp_pdf_status_3_2">بیشتر از 90</string>-->
+    <!--    <string name="bp_pdf_comparison_chart_side_header">فشار خون شما\n\nدر\n\nیک ماه گذشته</string>-->
+
+    <!--    &lt;!&ndash; SharePage &ndash;&gt;-->
+    <!--    <string name="shared_with_me">اشتراک گذاری‌ها</string>-->
+    <!--    <string name="share_all_title">اشتراک‌گذاری خودکار گزارش‌ها</string>-->
+    <!--    <string name="share_all_description">با وارد کردن شماره موبایل حساب کاربری افراد، گزارش‌های خود را به صورت خودکار در نرم‌افزار زیستا با آن‌ها به اشتراک بگذارید.</string>-->
+    <!--    <string name="shared_list_title">لیست اشتراک‌گذاری‌ها</string>-->
+    <!--    <string name="shared_list_description">نمایش لیست افرادی که گزارش‌های شما با آن‌ها به اشتراک گذاشته می‌شود و بالعکس</string>-->
+    <!--    <string name="share_block_title">لیست مسدودی‌ها</string>-->
+    <!--    <string name="share_block_description">مسدود کردن شماره‌ای که تمایل به دریافت گزارش‌های آن را ندارید</string>-->
+    <!--    <string name="dialog_share_all_body">شماره تلفن ‌کاربری را که می‌خواهید گزارش‌های خود را به صورت دائمی با آن به اشتراک بگذارید وارد کنید:</string>-->
+    <!--    <string name="dialog_share_this_body">شماره تلفن همراهی را که می‌خواهید این گزارش را با آن به اشتراک بگذارید وارد کنید:</string>-->
+    <!--    <string name="share_all_error_title">خطا</string>-->
+    <!--    <string name="share_all_error_body">اشتراک گذاری ناموفق بود</string>-->
+    <!--    <string name="sharing_all_tests_succeeded">داده‌های شما با کاربر مورد نظر اشتراک گذاری شد</string>-->
+    <!--    <string name="already_shared_error">داده‌های شما با کاربر مورد نظر به اشتراک گذاشته شده‌است.</string>-->
+    <!--    <string name="forbidden_self_share_error">کاربر امکان اشتراک گذاری تست با خود را ندارد.</string>-->
+
+    <!--    &lt;!&ndash; SharingUserPage &ndash;&gt;-->
+    <!--    <string name="dialog_get_sharing_user_failed_title">خطا</string>-->
+    <!--    <string name="dialog_get_sharing_user_failed_body">دریافت اشتراک گذاری کاربری ناموفق بود.</string>-->
+    <!--    <string name="dialog_un_sharing_user_failed_title">خطا</string>-->
+    <!--    <string name="dialog_un_sharing_user_failed_body">لغو اشتراک گذاری ناموفق بود.</string>-->
+    <!--    <string name="un_shared_user_dialog_title">لغو اشتراک گذاری کاربری</string>-->
+    <!--    <string name="un_shared_user_dialog_body">آیا می‌خواهید اشتراک گذاری با این کاربر لغو شود؟</string>-->
+    <!--    <string name="shared_to_me">از دیگران به من</string>-->
+    <!--    <string name="shared_from_me">از من به دیگران</string>-->
+
+    <!--    &lt;!&ndash; SharingTestsPage &ndash;&gt;-->
+    <!--    <string name="dialog_get_sharing_test_failed_title">خطا</string>-->
+    <!--    <string name="test_sharing_succeeded">تست با موفقیت اشتراک گذاری شد</string>-->
+    <!--    <string name="test_updated">تست بروزرسانی شد</string>-->
+    <!--    <string name="save_test">لطفا ابتدا تست را ذخیره کنید</string>-->
+    <!--    <string name="dialog_get_sharing_test_failed_body">دریافت تست ها به اشتراک گذاشته شده ناموفق بود.</string>-->
+    <!--    <string name="un_shared_test_dialog_title">لغو اشتراک گذاری گزارش</string>-->
+    <!--    <string name="un_shared_test_dialog_body">آیا می‌خواهید اشتراک این گزارش لغو شود؟</string>-->
+    <!--    <string name="un_sharing_succeeded">تست با موفقيت لغو اشتراك گذاري شد</string>-->
+
+    <!--    &lt;!&ndash; ShareBlock &ndash;&gt;-->
+    <!--    <string name="block_page_title">مسدود کردن</string>-->
+    <!--    <string name="add_phone">افزودن شماره</string>-->
+    <!--    <string name="dialog_loading_blocked_users_failed_title">خطا</string>-->
+    <!--    <string name="dialog_loading_blocked_users_failed_body">دریافت اطلاعات مسدودی‌ها دچار مشکل شده است.</string>-->
+    <!--    <string name="dialog_user_block_failed_title">خطا</string>-->
+    <!--    <string name="dialog_user_block_failed_body">مسدودی کردن کاربر دچار مشکل شده است.</string>-->
+    <!--    <string name="dialog_user_unblock_failed_title">خطا</string>-->
+    <!--    <string name="dialog_user_unblock_failed_body">لغو مسدودی کاربر دچار مشکل شده است.</string>-->
+    <!--    <string name="dialog_push_token_failed_title">خطا</string>-->
+    <!--    <string name="dialog_push_token_failed_body">راه‌اندازی سرویس پوش دچار مشکل شده است.</string>-->
+    <!--    <string name="dialog_block_user_body">شماره تلفن همراهی که تمایل به دریافت گزارش‌های آن را ندارید، وارد کنید:</string>-->
+    <!--    <string name="unblock">لغو انسداد</string>-->
+
+    <!--    &lt;!&ndash; PermissionDialog &ndash;&gt;-->
+    <!--    <string name="permission">دسترسی</string>-->
+    <!--    <string name="permission_description">"برای استفاده از قابلیت \"%1$s\" به دسترسی \"%2$s\" نیاز است."</string>-->
+    <!--    <string name="permission_feature_pdf">نگارش فایل pdf</string>-->
+    <!--    <string name="permission_feature_text">نگارش فایل متنی</string>-->
+    <!--    <string name="permission_feature_image">دسترسی به داده‌ی تصویری</string>-->
+    <!--    <string name="permission_feature_audio_record">ذخیره داده‌ی صوتی</string>-->
+    <!--    <string name="permission_write_file_and_media">فایل و رسانه</string>-->
+
+    <!--    &lt;!&ndash; AnalyzeWarningDialog &ndash;&gt;-->
+    <!--    <string name="notice">توجه</string>-->
+    <!--    <string name="analyze_warning_text">تحلیل نوار قلب توسط هوش مصنوعی صورت می‌گیرد و جایگزین پزشک نیست.\n\nممکن است عواملی مثل حرکت‌دادن دست یا نویزی بودن سیگنال روی تحلیل هوش مصنوعی تأثیرگذار باشند.\n\nدر صورتی که پس از چند بار ثبت نوار قلب، هشدار آریتمی دریافت نمودید جهت تشخیص قطعی حتما با پزشک مشاوره نمایید.</string>-->
+
+
+    <!--    &lt;!&ndash; DeviceModelPage &ndash;&gt;-->
+    <!--    <string name="device_model_title">انتخاب مدل دستگاه</string>-->
+
+
+    <!--    &lt;!&ndash; PurchaseSubscriptionPage &ndash;&gt;-->
+    <!--    <string name="buy_subscription_title">خرید اشتراک</string>-->
+    <!--    <string name="subscription_days_left_title">زمان باقی مانده از اشتراک خریداری شده</string>-->
+    <!--    <string name="subscription_types">انواع اشتراک</string>-->
+    <!--    <string name="subscription"> اشتراك</string>-->
+    <!--    <string name="days"> روز</string>-->
+    <!--    <string name="days_template">%d روز</string>-->
+    <!--    <string name="toman_template">%d تومان</string>-->
+    <!--    <string name="plan_days">روزه</string>-->
+    <!--    <string name="Toman">تومان</string>-->
+    <!--    <string name="buy_subscription_dialog_text">آيا از خريد اشتراك مطمئن هستيد؟</string>-->
+    <!--    <string name="show_payment_error_dialog_body">تراکنش با خطا مواجه شده است در صورت کسر مبلغ حداکثر تا 72 ساعت دیگر به حساب بازگردانده میشود</string>-->
+    <!--    <string name="payment_error_title">خطای تراکنش</string>-->
+    <!--    <string name="test_already_shared">تست قبلا با دکتر اشتراک گذاری شده است.</string>-->
+
+    <!--    &lt;!&ndash; Others &ndash;&gt;-->
+    <!--    <string name="install">نصب</string>-->
+    <!--    <string name="quit">خروج</string>-->
+    <!--    <string name="confirm_exit">برای خروج دوباره دکمه بازگشت را بزنید</string>-->
+    <!--    <string name="template_error">خطای %s</string>-->
+    <!--    <string name="low_battery_error_title">باتری دستگاه رو به اتمام است</string>-->
+    <!--    <string name="low_battery_error_body">لطفا برای استفاده از دستگاه باتری آن را تعویض و یا از آداپتور استفاده نمایید</string>-->
+    <!--    <string name="editable">قابل تغییر</string>-->
+    <!--    <string name="active">فعال</string>-->
+    <!--    <string name="de_active">غیر فعال</string>-->
+    <!--    <string name="stop">توقف</string>-->
+    <!--    <string name="yes">بله</string>-->
+    <!--    <string name="no">خیر</string>-->
+    <!--    <string name="back">بازگشت</string>-->
+    <!--    <string name="confirm">تایید</string>-->
+    <!--    <string name="internet_disconnected">اتصال اینترنت قطع است</string>-->
+    <!--    <string name="error_bluetooth_not_supported">بلوتوث در دستگاه شما پشتیبانی نمی‌شود</string>-->
+    <!--    <string name="ble_not_supported">متاسفانه BLE در دستگاه شما پشتیبانی نمی‌شود</string>-->
+    <!--    <string name="measure_BP">فشارخون</string>-->
+    <!--    <string name="measure_ECG">نوار قلب</string>-->
+    <!--    <string name="pulse_oximeter">پالس اکسی متر</string>-->
+    <!--    <string name="device_disconnected">اتصال با دستگاه قطع شد.</string>-->
+    <!--    <string name="bp_measurement">اندازه‌گیری فشار خون</string>-->
+    <!--    <string name="ecg_measurement">اندازه‌گیری سیگنال قلب</string>-->
+    <!--    <string name="retry">تلاش مجدد</string>-->
+    <!--    <string name="call_support">تماس با پشتیبانی</string>-->
+    <!--    <string name="under_development">در حال توسعه</string>-->
+    <!--    <string name="no_data">داده‌ای یافت نشد.</string>-->
+    <!--    <string name="error">خطا</string>-->
+    <!--    <string name="server_busy">صبور باشید. در حال ارتباط با سرور …</string>-->
+    <!--    <string name="support_message_default">سلام</string>-->
+    <!--    <string name="last_share">آخرین اشتراک گذاری</string>-->
+    <!--    <string name="navigation_retry_template">Navigation Retry %d</string>-->
+    <!--    <string name="permission_denied">دسترسی واگذار نشد.</string>-->
+    <!--    <string name="copied_to_clipboard">اطلاعات کپی شد.</string>-->
+    <!--    <string name="log_is_refreshed">اطلاعات بروز شد.</string>-->
+    <!--    <string name="understood">فهميدم</string>-->
+    <!--    <string name="share_log_no_data_error">داده‌ای برای اشتراک‌گذاری وجود ندارد.</string>-->
+    <!--    <string name="entries_template">تعداد لاگ‌ها: %,d</string>-->
+    <!--    <string name="analyze">تحلیل</string>-->
+    <!--    <string name="continue_offline">استفاده به صورت آفلاین</string>-->
+
+    <!--    <string name="gender_other">سایر</string>-->
+    <!--    <string name="gender_female">زن</string>-->
+    <!--    <string name="gender_male">مرد</string>-->
+    <!--    <string name="my_device">دستگاه من</string>-->
+
+    <!--    <string name="role_none">از کادر درمان نیستم</string>-->
+    <!--    <string name="role_doctor">پزشک هستم</string>-->
+    <!--    <string name="role_nurse">پرستار هستم</string>-->
+    <!--    <string name="role_other">سایر کادر درمان هستم</string>-->
+
+    <!--    <string name="sync_daily">هر روز</string>-->
+    <!--    <string name="sync_weekly">هر هفته</string>-->
+    <!--    <string name="sync_each2weeks">هر دو هفته</string>-->
+    <!--    <string name="sync_monthly">هر ماه</string>-->
+    <!--    <string name="sync_never">هرگز</string>-->
+
+    <!--    <string name="history_oneday">یک روز</string>-->
+    <!--    <string name="history_oneweek">یک هفته</string>-->
+    <!--    <string name="history_twoweeks">دو هفته</string>-->
+    <!--    <string name="history_onemonth">یک ماه</string>-->
+    <!--    <string name="history_never">نامحدود</string>-->
+
+    <!--    <string name="scale_3_mm_per_s">۳ میلی‌متر بر ثانیه</string>-->
+    <!--    <string name="scale_6_25_mm_per_s">۶.۲۵ میلی‌متر بر ثانیه</string>-->
+    <!--    <string name="scale_12_5_mm_per_s">۱۲.۵ میلی‌متر بر ثانیه</string>-->
+    <!--    <string name="scale_25_mm_per_s">۲۵ میلی‌متر بر ثانیه</string>-->
+    <!--    <string name="scale_50_mm_per_s">۵۰ میلی‌متر بر ثانیه</string>-->
+
+    <!--    <string name="scale_1_25_mm_per_mv">۱.۲۵ میلی‌متر بر میلی‌ولت</string>-->
+    <!--    <string name="scale_2_5_mm_per_mv">۲.۵ میلی‌متر بر میلی‌ولت</string>-->
+    <!--    <string name="scale_5_mm_per_mv">۵ میلی‌متر بر میلی‌ولت</string>-->
+    <!--    <string name="scale_10_mm_per_mv">۱۰ میلی‌متر بر میلی‌ولت</string>-->
+    <!--    <string name="scale_20_mm_per_mv">۲۰ میلی‌متر بر میلی‌ولت</string>-->
+
+    <!--    <string name="month_1">فروردبن</string>-->
+    <!--    <string name="month_2">اردیبهشت</string>-->
+    <!--    <string name="month_3">خرداد</string>-->
+    <!--    <string name="month_4">تیر</string>-->
+    <!--    <string name="month_5">مرداد</string>-->
+    <!--    <string name="month_6">شهریور</string>-->
+    <!--    <string name="month_7">مهر</string>-->
+    <!--    <string name="month_8">آبان</string>-->
+    <!--    <string name="month_9">آذر</string>-->
+    <!--    <string name="month_10">دی</string>-->
+    <!--    <string name="month_11">بهمن</string>-->
+    <!--    <string name="month_12">اسفند</string>-->
+
+    <!--    <string name="sec12">۱۲ ثانیه</string>-->
+    <!--    <string name="sec30">۳۰ ثانیه</string>-->
+    <!--    <string name="sec60">۱ دقیقه</string>-->
+    <!--    <string name="sec120">۲ دقیقه</string>-->

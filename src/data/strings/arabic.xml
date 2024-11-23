@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">زیستا</string>
+    <string name="language_name">Arabic</string>
+
+    <!-- Splash -->
+    <string name="version">نسخة %s</string>
+
+    <!-- Splash.LanguageDialog -->
+    <string name="select_language">اختر لغتک</string>
+    <string name="confirm">تأکید</string>
+
+    <!-- Splash.Connecting -->
+    <string name="connecting_to_server">الاتصال بالخادم</string>
+
+    <!-- Splash.UpdateAvailable -->
+    <string name="update">تحديث</string>
+    <string name="update_text">تحديث زيستا الجديد متوفر الآن. يرجى تحديث زيستا الخاص بك إلى الإصدار الأحدث.</string>
+    <string name="update_ok">تحميل</string>
+    <string name="update_continue">يكمل</string>
+    <string name="update_exit">مخرج</string>
+
+    <!-- OnBoarding -->
+    <string name="on_boarding_item1">في زيستا، قم بقياس مؤشراتك الصحية بمساعدة أجهزة زیستل.</string>
+    <string name="on_boarding_item2">في زيستا، يمكنك بسهولة عرض حالتك الصحية و مشاركتها مع الآخرين.</string>
+    <string name="on_boarding_item3">في زيستا، يمكنك مشاركة نتائج تسجيلاتك مع طبيبك.</string>
+
+    <!-- Authentication.Login -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="welcome">مرحبا بكم في زيستا</string>
+    <string name="privacy_policy">أوافق على استخدام الخدمة والخصوصية.</string>
+    <string name="privacy_policy_link_keyword">أوافق</string>
+    <string name="phone_number">رقم الهاتف المحمول</string>
+
+    <!-- Authentication.SignUp -->
+    <string name="create_account">إنشاء حساب مستخدم</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="first_name">اسم</string>
+    <string name="last_name">اسم العائلة</string>
+    <string name="birth_date">تاريخ الميلاد</string>
+    <string name="gender">جنس</string>
+    <string name="invalid_data">بيانات غير صالحة</string>
+
+    <!-- Authentication.SignUp.GenderDialog -->
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+
+    <!-- Authentication.SignUp.NetworkErrorDialog -->
+    <string name="connection_failed">فشل الاتصال</string>
+    <string name="network_error_guide">يرجى التأكد من تشغيل الإنترنت عبر الهاتف المحمول الخاص بك</string>
+    <string name="try_again">حاول ثانية</string>
+    <string name="call_support">اتصل بالدعم</string>
+
+    <!-- Authentication.Verification -->
+    <string name="user_authentication">مصادقة المستخدم</string>
+    <string name="user_authentication_guide">سيتم إرسال رمز المصادقة إلى رقم هاتفك المحمول عبر رسالة نصية قصيرة، يرجى إدخاله في المربع أدناه:</string>
+
+    <!-- Authentication.RefreshToken -->
+    <string name="refresh_token_guide">لقد انتهت صلاحية بيانات اعتماد تسجيل الدخول الخاصة بك، انقر على زر تسجيل الدخول للمتابعة بنفس الرقم</string>
+    <string name="login_with_another_number">تسجيل الدخول برقم آخر</string>
+
+    <!-- Authentication.RefreshToken.ChangeNumberWarningDialog -->
+    <string name="warning">تحذير</string>
+    <string name="change_number_warning">تسجيل الدخول برقم آخر سيؤدي إلى حذف المعلومات غير المتزامنة مع الخادم. هل تستمر؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+
+    <!-- Settings -->
+    <string name="nbp_synced">تم تحديث البيانات.</string>
+    <string name="nbp_syncing">تقوم زیستا بتحديث البيانات.</string>
+    <string name="resend">إعادة إرسال</string>
+
+    <!-- IoUtil -->
+    <string name="share_log_no_data_error">لا توجد بيانات للمشاركة.</string>
+    <string name="logo">الشعار</string>
+
+    <!-- Home -->
+    <string name="home">بیت</string>
+    <string name="reset_data">إعادة تعيين البيانات</string>
+
+    <!-- Other -->
+    <string name="back">خلف</string>
+    <string name="next">التالي</string>
+    <string-array name="numbers">
+        <item>۰</item>
+        <item>۱</item>
+        <item>۲</item>
+        <item>۳</item>
+        <item>۴</item>
+        <item>۵</item>
+        <item>۶</item>
+        <item>۷</item>
+        <item>۸</item>
+        <item>۹</item>
+    </string-array>
+    <string-array name="months">
+        <item>محرم</item>
+        <item>صفر</item>
+        <item>ربيع الأول</item>
+        <item>ربيع الثاني</item>
+        <item>جمادى الأولى</item>
+        <item>جمادى الآخرة</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوال</item>
+        <item>ذو القعدة</item>
+        <item>ذو الحجة</item>
+    </string-array>
+</resources>

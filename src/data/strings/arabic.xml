@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">زیستا</string>
+    <string name="app_name">زیستا ۲</string>
     <string name="language_name">Arabic</string>
 
     <!-- Splash -->
@@ -76,6 +76,10 @@
     <!-- Home -->
     <string name="home">بیت</string>
     <string name="reset_data">إعادة تعيين البيانات</string>
+    <string name="history">تاريخ</string>
+    <string name="search">يبحث</string>
+    <string name="add_device">إضافة جهاز</string>
+    <string name="magazine">مجلة</string>
 
     <!-- Other -->
     <string name="back">خلف</string>

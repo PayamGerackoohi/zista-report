@@ -73,7 +73,7 @@
     <string name="share_log_no_data_error">لا توجد بيانات للمشاركة.</string>
     <string name="logo">الشعار</string>
 
-    <!-- Home -->
+    <!-- Main -->
     <string name="home">بیت</string>
     <string name="reset_data">إعادة تعيين البيانات</string>
     <string name="history">تاريخ</string>
@@ -81,9 +81,45 @@
     <string name="add_device">إضافة جهاز</string>
     <string name="magazine">مجلة</string>
 
+    <!-- Home -->
+    <string name="avatar">الصورة الرمزية</string>
+    <string name="menu">القائمة</string>
+    <string name="template_hi_user">أهلاً %s</string>
+    <string name="good_morning">صباح الخير</string>
+    <string name="good_afternoon">مساء الخير</string>
+    <string name="good_night">طاب مساؤك</string>
+    <string name="last_heart_signal">الإشارة الأخيرة للقلب</string>
+    <string name="hr_low">الخفقان إلى أسفل</string>
+    <string name="hr_normal">نبض طبيعي</string>
+    <string name="hr_high">نبض مرتفع</string>
+    <string name="last_heart_rate">آخر معدل ضربات القلب المسجلة</string>
+    <string name="template_hr_per_minute">%s نبضة في الدقيقة</string>
+    <string name="hr_dialog_description_part1">يعد معدل ضربات القلب أحد المؤشرات المهمة للصحة، حيث يشير إلى عدد نبضات القلب في الدقيقة، ويتراوح معدل ضربات القلب عند البالغين:</string>
+    <string name="hr_dialog_low_description_part2">انخفاض معدل ضربات القلب: أقل من ۶۰ نبضة في الدقيقة</string>
+    <string name="hr_dialog_normal_description_part2">معدل ضربات القلب الطبيعي: بين ۶۰ و ۱۰۰ نبضة في الدقيقة</string>
+    <string name="hr_dialog_high_description_part2">ارتفاع معدل ضربات القلب: أكثر من ۱۰۰ نبضة في الدقيقة</string>
+    <string name="hr_dialog_description_part3">وبطبيعة الحال، قد يختلف هذا النبض لدى الأشخاص المختلفين حسب العمر ومستوى النشاط البدني والحالة البدنية وعوامل أخرى.</string>
+    <string name="hr_dialog_more_info">لمزيد من المعلومات</string>
+    <string name="hr_dialog_click_here">انقر هنا</string>
+    <string name="hr_dialog_understood">لقد فهمت</string>
+
+    <!-- Zista.Home.Menu -->
+    <string name="website">موقع إلكتروني</string>
+    <string name="user_account">حساب المستخدم</string>
+    <string name="sharing_reports">مشاركة التقارير</string>
+    <string name="contact_support">اتصل بالدعم</string>
+    <string name="settings">إعدادات</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="log_out">تسجيل الخروج من\nحساب المستخدم</string>
+    <string name="message_support">دعم الرسائل</string>
+
+    <!-- Zista.Graph -->
+    <string name="zista_graph">الرسم البياني لزيستا</string>
+
     <!-- Other -->
     <string name="back">خلف</string>
     <string name="next">التالي</string>
+    <string name="error">خطأ</string>
     <string-array name="numbers">
         <item>۰</item>
         <item>۱</item>

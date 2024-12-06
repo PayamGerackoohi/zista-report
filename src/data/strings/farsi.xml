@@ -18,7 +18,7 @@
     <string name="update_ok">دریافت</string>
     <string name="update_continue">ادامه</string>
     <string name="update_exit">خروج</string>
-    <string name="website">http://www.nasirbp.ir</string>
+    <string name="zista_website">http://www.nasirbp.ir</string>
     <string name="website_privacy_policy" translatable="false">https://nasirbp.ir/شرایط-و-مقررات-استفاده-از-خدمات-زیستل/</string>
 
     <!-- OnBoarding -->
@@ -75,17 +75,53 @@
     <string name="share_log_no_data_error">داده‌ای برای اشتراک‌گذاری وجود ندارد.</string>
     <string name="logo">لوگو</string>
 
-    <!-- Home -->
+    <!-- Main -->
     <string name="home">خانه</string>
     <string name="history">تاریخچه</string>
     <string name="search">جستجو</string>
     <string name="add_device">اضافه کردن دستگاه</string>
     <string name="magazine">مجله</string>
 
+    <!-- Home -->
+    <string name="avatar">آواتار</string>
+    <string name="menu">منو</string>
+    <string name="template_hi_user">سلام %s</string>
+    <string name="good_morning">صبح بخیر</string>
+    <string name="good_afternoon">روز بخیر</string>
+    <string name="good_night">شب بخیر</string>
+    <string name="last_heart_signal">آخرین سیگنال قلب</string>
+    <string name="hr_low">تپش پایین</string>
+    <string name="hr_normal">تپش عادی</string>
+    <string name="hr_high">تپش بالا</string>
+    <string name="last_heart_rate">آخرین ضربان قلب ثبت شده</string>
+    <string name="template_hr_per_minute">%s تپش در دقیقه</string>
+    <string name="hr_dialog_description_part1">ضربان قلب یکی از شاخص‌های مهم سلامت است که نشان‌دهنده‌ی تعداد تپش‌های قلب در هر دقیقه می‌باشد.\nبازه‌های ضربان قلب برای بزرگسالان:</string>
+    <string name="hr_dialog_low_description_part2">ضربان قلب پایین: کمتر از ۶۰ تپش در دقیقه</string>
+    <string name="hr_dialog_normal_description_part2">ضربان قلب عادی: بین ۶۰ تا ۱۰۰ تپش در دقیقه</string>
+    <string name="hr_dialog_high_description_part2">ضربان قلب بالا: بیشتر از ۱۰۰ تپش در دقیقه</string>
+    <string name="hr_dialog_description_part3">البته ممکن است این ضربان با توجه به سن، سطح فعالیت بدنی، وضعیت جسمانی و سایر عوامل در افراد مختلف متفاوت باشند.</string>
+    <string name="hr_dialog_more_info">جهت کسب اطلاعات بیشتر</string>
+    <string name="hr_dialog_click_here">اینجا کلیک کنید</string>
+    <string name="hr_dialog_understood">فهمیدم</string>
+
+    <!-- Zista.Home.Menu -->
+    <string name="website">وبسایت</string>
+    <string name="user_account">حساب کاربری</string>
+    <string name="sharing_reports">اشتراک‌گذاری گزارش‌ها</string>
+    <string name="contact_support">ارتباط با پشتیبانی</string>
+    <string name="settings">تنظیمات</string>
+    <string name="about_us">درباره‌ی ما</string>
+    <string name="log_out">خروج از حساب کاربری</string>
+    <string name="message_support">پیام به پشتیبانی</string>
+
+    <!-- Zista.Graph -->
+    <string name="zista_graph">نمودار زیستا</string>
+
     <!-- Other -->
     <string name="back">بازگشت</string>
     <string name="next">بعدی</string>
     <string name="reset_data">پاک کردن داده‌ها</string>
+    <string name="error">خطا</string>
     <string-array name="numbers">
         <item>۰</item>
         <item>۱</item>
